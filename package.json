@@ -1,0 +1,15 @@
+{
+	"name"			:	"ifbot",
+	"version"		: 	"0.0.1",
+	"description"	:	"Simple node.js connector between SlackBot and Glulxe/RemGlk IF intepreter.",
+	"main"			:	"server.js",
+	"author"		:	"Charles Cox",
+	"dependencies"	:	{
+		"express"			:	"latest",
+		"request"			:	"latest",
+		"child-process-promise"	:	"latest",
+		"JSONStream"			:	"latest",
+		"event-stream"			:	"latest",
+		"body-parser"			:	"latest"
+	}
+}
