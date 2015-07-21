@@ -1,5 +1,5 @@
 # glknode
-Interactive fiction NodeJS Express app with cheapglk backend, runs .ulx text adventures with POST and GET for I/O
+Interactive fiction NodeJS Express app with [cheapglk](https://github.com/erkyrath/cheapglk) and [glulxe](https://github.com/erkyrath/glulxe) backend, runs .ulx text adventures with POST and GET for I/O
 
 ## Building
 ```
